@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scale xmlns:android="http://schemas.android.com/apk/res/android"/>
+<!--补间动画-->
+    <!--android:duration：用于设置完成一次动画的持续时间，以毫秒为单位。-->
+    <!--fillAfter：如果设置为ture,则控件动画结束时，将保持动画结束时的状态。-->
+    <!--fillBefore：如果设置为true,则控件动画结束时，将还原到初始化状态。-->
+    <!--android:fillEnabled：与android:fillBefore效果相同。-->
+    <!--android:repeatCount：用于指定动画的重复次数，当取值为infinite时，表示无限循环。-->
+    <!--android:repeatMode：用于设定重复的类型，有reverse和restart两个值。reverse表示倒序回放；restart表示重放。-->
+    <!--android:interpolator:用于设定插值器，其实就是指定的动画效果，比如弹跳效果等。-->
+    <!--alpha-->
+    <!--android:fromAlpha：动画开始时的透明度，取值范围为0.0~1.0-->
+    <!--android:toAlpha：动画结束时的透明度，取值范围为0.0~1.0-->
+    <!--rotate-->
+    <!--android:fromDegrees：动画开始旋转时的角度位置，正值代表顺时针方向的度数。-->
+    <!--android:toDegrees：动画结束时旋转到的角度位置，负值代表逆时针方向的度数-->
+    <!--android:pivotX：旋转中心点X轴坐标-->
+    <!--android:pivotY：旋转中心点Y轴坐标-->
+    <!--translate-->
+    <!--android:fromXDelta：起始点X轴坐标，可以是数值、百分数、百分数P三种样式，-->
+    <!--android:fromYDelta：起始点Y轴坐标，-->
+    <!--android:toXDelta：终点X轴坐标-->
+    <!--android:toYDelta：终点Y轴坐标-->
+    <!--sale-->
+    <!--android:fromXScale：动画起始时，控件在X轴方向上相对自身的缩放比例1.0代表无变化，0.5代表缩小1倍，2.0代表放大1倍-->
+    <!--android:toXScale：动画结束时，控件在X轴方向上相对自身的缩放比例。-->
+    <!--android:fromYScale：动画起始时，控件在Y轴方向上相对自身的缩放比例。-->
+    <!--android:toYScale：动画结束时时，控件在Y轴方向上相对自身的缩放比例。-->
+    <!--android:pivotX：缩放起始点X轴坐标，可以是数值、百分数、百分数P三种样式。-->
+    <!--android:pivotY：缩放起始点Y轴坐标，可以是数值、百分数、百分数P三种样式。-->
