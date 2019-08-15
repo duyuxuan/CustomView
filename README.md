@@ -9,5 +9,4 @@
 ![Image text](https://github.com/DayorNight/File/blob/master/LoupeView.gif)
 
 ##自定义View 刮刮乐展示
-
 ![Image text](https://github.com/DayorNight/File/blob/master/ScratchCardView.gif)
